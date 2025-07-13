@@ -76,7 +76,7 @@ docker pull ayanokojix21/insurance-api
 ---
 ### 9. Run on Any Machine
 ```
-docker run -d -p 8000:8000 ayanokojix21/insurance-api
+docker run -d -p 8080:8080 ayanokojix21/insurance-api
 ```
 This works on any machine with Docker — no code needed!
 
